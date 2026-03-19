@@ -1,2 +1,3 @@
-# flex-knowledge-base-mcc3
-A knowledge management system for modern development workflows
+# Flex Knowledge Base Mcc3
+
+A knowledge management system for modern development workflows.
